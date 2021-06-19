@@ -1,8 +1,7 @@
 body {
     font-family: "Poppins";
     padding: 2em;
-}
-.card {
-    border: 70px;
-    border-color: aqua;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(96, 198, 238);
 }
