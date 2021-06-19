@@ -2,3 +2,7 @@ body {
     font-family: "Poppins";
     padding: 2em;
 }
+.card {
+    border: 0.2em;
+    border-color: aqua;
+}
